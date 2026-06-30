@@ -1,16 +1,18 @@
-## Hi there 👋
+Aspiring cybersecurity professional focused on networking, cybersecurity fundamentals, and Governance, Risk, and Compliance (GRC).
 
-<!--
-**cjucutan/cjucutan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy learning through hands-on labs, homelabs, and small projects. I’m currently building skills in SOC analysis, security operations, and risk management while exploring how security frameworks apply in real-world environments.
 
-Here are some ideas to get you started:
+## Interests
+- Cybersecurity (SOC / Blue Team)
+- GRC (Governance, Risk, Compliance)
+- Networking
+- Homelabbing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Security monitoring & detection
+- Linux fundamentals
+- Cybersecurity frameworks (NIST, ISO 27001)
+
+## Goals
+- Cybersecurity internship/co-op
+- Build a strong homelab + GitHub portfolio
